@@ -1,0 +1,5 @@
+node_modules/
+src/data/tempo_tela.db
+.env
+*.log
+.DS_Store
