@@ -1,0 +1,199 @@
+Idade,Gênero,Tipo de Tempo de Tela,Tipo de Dia,Média de Tempo de Tela (horas),Tamanho da Amostra  
+5,Masculino,Educacional,Dias Úteis,0.44,500  
+5,Masculino,Recreativo,Dias Úteis,1.11,500  
+5,Masculino,Total,Dias Úteis,1.55,500  
+5,Masculino,Educacional,Fim de Semana,0.5,500  
+5,Masculino,Recreativo,Fim de Semana,1.44,500  
+5,Masculino,Total,Fim de Semana,1.93,500  
+5,Feminino,Educacional,Dias Úteis,0.49,500  
+5,Feminino,Recreativo,Dias Úteis,0.96,500  
+5,Feminino,Total,Dias Úteis,1.45,500  
+5,Feminino,Educacional,Fim de Semana,0.5,500  
+5,Feminino,Recreativo,Fim de Semana,1.4,500  
+5,Feminino,Total,Fim de Semana,1.9,500  
+5,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.52,500  
+5,Outro/Prefiro não dizer,Recreativo,Dias Úteis,0.98,500  
+5,Outro/Prefiro não dizer,Total,Dias Úteis,1.5,500  
+5,Outro/Prefiro não dizer,Educacional,Fim de Semana,0.44,500  
+5,Outro/Prefiro não dizer,Recreativo,Fim de Semana,1.51,500  
+5,Outro/Prefiro não dizer,Total,Fim de Semana,1.95,500  
+6,Masculino,Educacional,Dias Úteis,0.64,480  
+6,Masculino,Recreativo,Dias Úteis,1.39,480  
+6,Masculino,Total,Dias Úteis,2.02,480  
+6,Masculino,Educacional,Fim de Semana,0.74,480  
+6,Masculino,Recreativo,Fim de Semana,1.75,480  
+6,Masculino,Total,Fim de Semana,2.49,480  
+6,Feminino,Educacional,Dias Úteis,0.57,480  
+6,Feminino,Recreativo,Dias Úteis,1.37,480  
+6,Feminino,Total,Dias Úteis,1.95,480  
+6,Feminino,Educacional,Fim de Semana,0.83,480  
+6,Feminino,Recreativo,Fim de Semana,1.63,480  
+6,Feminino,Total,Fim de Semana,2.46,480  
+6,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.59,480  
+6,Outro/Prefiro não dizer,Recreativo,Dias Úteis,1.41,480  
+6,Outro/Prefiro não dizer,Total,Dias Úteis,2.0,480  
+6,Outro/Prefiro não dizer,Educacional,Fim de Semana,0.58,480  
+6,Outro/Prefiro não dizer,Recreativo,Fim de Semana,1.91,480  
+6,Outro/Prefiro não dizer,Total,Fim de Semana,2.49,480  
+7,Masculino,Educacional,Dias Úteis,0.8,460  
+7,Masculino,Recreativo,Dias Úteis,1.75,460  
+7,Masculino,Total,Dias Úteis,2.55,460  
+7,Masculino,Educacional,Fim de Semana,1.08,460  
+7,Masculino,Recreativo,Fim de Semana,2.14,460  
+7,Masculino,Total,Fim de Semana,3.22,460  
+7,Feminino,Educacional,Dias Úteis,0.81,460  
+7,Feminino,Recreativo,Dias Úteis,1.61,460  
+7,Feminino,Total,Dias Úteis,2.42,460  
+7,Feminino,Educacional,Fim de Semana,0.66,460  
+7,Feminino,Recreativo,Fim de Semana,2.53,460  
+7,Feminino,Total,Fim de Semana,3.19,460  
+7,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.76,460  
+7,Outro/Prefiro não dizer,Recreativo,Dias Úteis,1.74,460  
+7,Outro/Prefiro não dizer,Total,Dias Úteis,2.5,460  
+7,Outro/Prefiro não dizer,Educacional,Fim de Semana,0.75,460  
+7,Outro/Prefiro não dizer,Recreativo,Fim de Semana,2.28,460  
+7,Outro/Prefiro não dizer,Total,Fim de Semana,3.02,460  
+8,Masculino,Educacional,Dias Úteis,0.85,440  
+8,Masculino,Recreativo,Dias Úteis,2.18,440  
+8,Masculino,Total,Dias Úteis,3.03,440  
+8,Masculino,Educacional,Fim de Semana,1.29,440  
+8,Masculino,Recreativo,Fim de Semana,2.57,440  
+8,Masculino,Total,Fim de Semana,3.86,440  
+8,Feminino,Educacional,Dias Úteis,0.93,440  
+8,Feminino,Recreativo,Dias Úteis,2.02,440  
+8,Feminino,Total,Dias Úteis,2.95,440  
+8,Feminino,Educacional,Fim de Semana,1.0,440  
+8,Feminino,Recreativo,Fim de Semana,2.61,440  
+8,Feminino,Total,Fim de Semana,3.62,440  
+8,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.97,440  
+8,Outro/Prefiro não dizer,Recreativo,Dias Úteis,2.03,440  
+8,Outro/Prefiro não dizer,Total,Dias Úteis,3.0,440  
+8,Outro/Prefiro não dizer,Educacional,Fim de Semana,0.91,440  
+8,Outro/Prefiro não dizer,Recreativo,Fim de Semana,2.98,440  
+8,Outro/Prefiro não dizer,Total,Fim de Semana,3.89,440  
+9,Masculino,Educacional,Dias Úteis,0.73,420  
+9,Masculino,Recreativo,Dias Úteis,2.9,420  
+9,Masculino,Total,Dias Úteis,3.63,420  
+9,Masculino,Educacional,Fim de Semana,0.93,420  
+9,Masculino,Recreativo,Fim de Semana,3.52,420  
+9,Masculino,Total,Fim de Semana,4.46,420  
+9,Feminino,Educacional,Dias Úteis,1.12,420  
+9,Feminino,Recreativo,Dias Úteis,2.26,420  
+9,Feminino,Total,Dias Úteis,3.39,420  
+9,Feminino,Educacional,Fim de Semana,1.26,420  
+9,Feminino,Recreativo,Fim de Semana,2.94,420  
+9,Feminino,Total,Fim de Semana,4.19,420  
+9,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.79,420  
+9,Outro/Prefiro não dizer,Recreativo,Dias Úteis,2.71,420  
+9,Outro/Prefiro não dizer,Total,Dias Úteis,3.5,420  
+9,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.33,420  
+9,Outro/Prefiro não dizer,Recreativo,Fim de Semana,2.99,420  
+9,Outro/Prefiro não dizer,Total,Fim de Semana,4.32,420  
+10,Masculino,Educacional,Dias Úteis,1.07,400  
+10,Masculino,Recreativo,Dias Úteis,2.97,400  
+10,Masculino,Total,Dias Úteis,4.05,400  
+10,Masculino,Educacional,Fim de Semana,1.74,400  
+10,Masculino,Recreativo,Fim de Semana,3.55,400  
+10,Masculino,Total,Fim de Semana,5.29,400  
+10,Feminino,Educacional,Dias Úteis,0.94,400  
+10,Feminino,Recreativo,Dias Úteis,2.93,400  
+10,Feminino,Total,Dias Úteis,3.87,400  
+10,Feminino,Educacional,Fim de Semana,1.09,400  
+10,Feminino,Recreativo,Fim de Semana,3.63,400  
+10,Feminino,Total,Fim de Semana,4.72,400  
+10,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.96,400  
+10,Outro/Prefiro não dizer,Recreativo,Dias Úteis,3.04,400  
+10,Outro/Prefiro não dizer,Total,Dias Úteis,4.0,400  
+10,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.73,400  
+10,Outro/Prefiro não dizer,Recreativo,Fim de Semana,3.38,400  
+10,Outro/Prefiro não dizer,Total,Fim de Semana,5.11,400  
+11,Masculino,Educacional,Dias Úteis,1.33,380  
+11,Masculino,Recreativo,Dias Úteis,3.21,380  
+11,Masculino,Total,Dias Úteis,4.55,380  
+11,Masculino,Educacional,Fim de Semana,1.48,380  
+11,Masculino,Recreativo,Fim de Semana,4.4,380  
+11,Masculino,Total,Fim de Semana,5.89,380  
+11,Feminino,Educacional,Dias Úteis,1.53,380  
+11,Feminino,Recreativo,Dias Úteis,2.86,380  
+11,Feminino,Total,Dias Úteis,4.39,380  
+11,Feminino,Educacional,Fim de Semana,1.33,380  
+11,Feminino,Recreativo,Fim de Semana,4.11,380  
+11,Feminino,Total,Fim de Semana,5.44,380  
+11,Outro/Prefiro não dizer,Educacional,Dias Úteis,0.98,380  
+11,Outro/Prefiro não dizer,Recreativo,Dias Úteis,3.52,380  
+11,Outro/Prefiro não dizer,Total,Dias Úteis,4.5,380  
+11,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.86,380  
+11,Outro/Prefiro não dizer,Recreativo,Fim de Semana,3.75,380  
+11,Outro/Prefiro não dizer,Total,Fim de Semana,5.61,380  
+12,Masculino,Educacional,Dias Úteis,1.22,360  
+12,Masculino,Recreativo,Dias Úteis,3.94,360  
+12,Masculino,Total,Dias Úteis,5.15,360  
+12,Masculino,Educacional,Fim de Semana,1.47,360  
+12,Masculino,Recreativo,Fim de Semana,4.95,360  
+12,Masculino,Total,Fim de Semana,6.42,360  
+12,Feminino,Educacional,Dias Úteis,1.36,360  
+12,Feminino,Recreativo,Dias Úteis,3.52,360  
+12,Feminino,Total,Dias Úteis,4.88,360  
+12,Feminino,Educacional,Fim de Semana,2.01,360  
+12,Feminino,Recreativo,Fim de Semana,3.81,360  
+12,Feminino,Total,Fim de Semana,5.82,360  
+12,Outro/Prefiro não dizer,Educacional,Dias Úteis,1.27,360  
+12,Outro/Prefiro não dizer,Recreativo,Dias Úteis,3.73,360  
+12,Outro/Prefiro não dizer,Total,Dias Úteis,5.0,360  
+12,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.69,360  
+12,Outro/Prefiro não dizer,Recreativo,Fim de Semana,4.47,360  
+12,Outro/Prefiro não dizer,Total,Fim de Semana,6.16,360  
+13,Masculino,Educacional,Dias Úteis,1.18,340  
+13,Masculino,Recreativo,Dias Úteis,4.41,340  
+13,Masculino,Total,Dias Úteis,5.59,340  
+13,Masculino,Educacional,Fim de Semana,1.62,340  
+13,Masculino,Recreativo,Fim de Semana,5.31,340  
+13,Masculino,Total,Fim de Semana,6.93,340  
+13,Feminino,Educacional,Dias Úteis,1.86,340  
+13,Feminino,Recreativo,Dias Úteis,3.5,340  
+13,Feminino,Total,Dias Úteis,5.36,340  
+13,Feminino,Educacional,Fim de Semana,1.41,340  
+13,Feminino,Recreativo,Fim de Semana,5.19,340  
+13,Feminino,Total,Fim de Semana,6.6,340  
+13,Outro/Prefiro não dizer,Educacional,Dias Úteis,1.4,340  
+13,Outro/Prefiro não dizer,Recreativo,Dias Úteis,4.1,340  
+13,Outro/Prefiro não dizer,Total,Dias Úteis,5.5,340  
+13,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.62,340  
+13,Outro/Prefiro não dizer,Recreativo,Fim de Semana,5.45,340  
+13,Outro/Prefiro não dizer,Total,Fim de Semana,7.08,340  
+14,Masculino,Educacional,Dias Úteis,1.93,320  
+14,Masculino,Recreativo,Dias Úteis,4.25,320  
+14,Masculino,Total,Dias Úteis,6.19,320  
+14,Masculino,Educacional,Fim de Semana,1.72,320  
+14,Masculino,Recreativo,Fim de Semana,6.07,320  
+14,Masculino,Total,Fim de Semana,7.79,320  
+14,Feminino,Educacional,Dias Úteis,1.81,320  
+14,Feminino,Recreativo,Dias Úteis,4.0,320  
+14,Feminino,Total,Dias Úteis,5.81,320  
+14,Feminino,Educacional,Fim de Semana,2.1,320  
+14,Feminino,Recreativo,Fim de Semana,5.15,320  
+14,Feminino,Total,Fim de Semana,7.25,320  
+14,Outro/Prefiro não dizer,Educacional,Dias Úteis,1.33,320  
+14,Outro/Prefiro não dizer,Recreativo,Dias Úteis,4.67,320  
+14,Outro/Prefiro não dizer,Total,Dias Úteis,6.0,320  
+14,Outro/Prefiro não dizer,Educacional,Fim de Semana,1.97,320  
+14,Outro/Prefiro não dizer,Recreativo,Fim de Semana,5.23,320  
+14,Outro/Prefiro não dizer,Total,Fim de Semana,7.2,320  
+15,Masculino,Educacional,Dias Úteis,1.87,300  
+15,Masculino,Recreativo,Dias Úteis,4.72,300  
+15,Masculino,Total,Dias Úteis,6.59,300  
+15,Masculino,Educacional,Fim de Semana,2.36,300  
+15,Masculino,Recreativo,Fim de Semana,5.78,300  
+15,Masculino,Total,Fim de Semana,8.14,300  
+15,Feminino,Educacional,Dias Úteis,1.96,300  
+15,Feminino,Recreativo,Dias Úteis,4.41,300  
+15,Feminino,Total,Dias Úteis,6.37,300  
+15,Feminino,Educacional,Fim de Semana,2.44,300  
+15,Feminino,Recreativo,Fim de Semana,5.75,300  
+15,Feminino,Total,Fim de Semana,8.19,300  
+15,Outro/Prefiro não dizer,Educacional,Dias Úteis,1.34,300  
+15,Outro/Prefiro não dizer,Recreativo,Dias Úteis,5.16,300  
+15,Outro/Prefiro não dizer,Total,Dias Úteis,6.5,300  
+15,Outro/Prefiro não dizer,Educacional,Fim de Semana,2.19,300  
+15,Outro/Prefiro não dizer,Recreativo,Fim de Semana,5.77,300  
+15,Outro/Prefiro não dizer,Total,Fim de Semana,7.96,300  

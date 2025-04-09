@@ -1,0 +1,27 @@
+{
+  "name": "sad-analise-backend",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "etl": "node src/load_csv.js",
+    "db:create": "node src/db.js",
+    "load-data": "node src/load_csv.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^9.2.1",
+    "apriori": "^1.0.7",
+    "csv-parser": "^3.2.0",
+    "express": "^5.1.0",
+    "ml-cart": "^2.1.1",
+    "ml-kmeans": "^6.0.0",
+    "sequelize": "^6.37.7",
+    "sqlite3": "^5.1.7"
+  }
+}
