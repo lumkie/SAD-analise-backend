@@ -1,4 +1,5 @@
 const express = require('express');
+const cors = require('cors');
 const app = express();
 const port = 3000;
 
@@ -8,7 +9,7 @@ const kpi = require('./queries/kpi');
 const olap = require('./queries/olap');
 const mining = require('./queries/mining');
 
-
+app.use(cors()); // Habilita o CORS para todas as rotas
 app.use(express.json());
 
 
